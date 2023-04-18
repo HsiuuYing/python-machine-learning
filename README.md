@@ -1,1 +1,17 @@
-# python-machine-learning
+# python-machine-learning    
+    
+專題一_Medical    
+ - 利用機器學習相關之演算法，對科技業員工之心理健康問卷資料集進行學習，建立模型後預測員工是否曾尋求心理治療。    
+ - 評估分類結果，上傳至Kaggle網站進行線上評測。    
+
+專題二_Titanic     
+ - 請利用kaggle的鐵達尼號公開資料集，進行數據統計作圖。    
+ - numpy+pandas+Matplotlib 練習    
+    
+專題三_Skin Cancer    
+ - 利用機器學習相關之演算法，對皮膚痣照片進行皮膚病變分類預測。    
+ - 評估分類結果，上傳至Kaggle網站進行線上評測。    
+
+專題四_Biomedical    
+ - 利用機器學習相關之演算法，對肝病患者資料集進行學習，建立模型後用於評估肝病患者的分類。
+ - 評估分類結果，上傳至Kaggle網站進行線上評測。
